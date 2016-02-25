@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Crystalize</string>
+    <string-array name="Questions">
+        <item>What is the letter A in the phonetic alphabet?</item>
+        <item>What is the letter B in the phonetic alphabet?</item>
+        <item>What is the letter C in the phonetic alphabet?</item>
+    </string-array>
+    <string-array name="Answers">
+        <item>alpha</item>
+        <item>bravo</item>
+        <item>charlie</item>
+    </string-array>
+    <string-array name="Hints">
+        <item>A tough, domineering bloke</item>
+        <item>Well done!</item>
+        <item>Snoopy\'s mate</item>
+    </string-array>
+    <string name="title_activity_menu">Menu</string>
+
+</resources>
